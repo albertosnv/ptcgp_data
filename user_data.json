@@ -1,10 +1,16 @@
 [
   {
     "name": "alberto",
-    "level": "25",
-    "accounts": {
-      "bot": "22222",
-      "botalt": "67678678"
-    }
+    "level": "26",
+    "accounts": [
+      {
+        "name": "Bot",
+        "code": "22222"
+      },
+      {
+        "name": "BotAlt",
+        "code": "67678678"
+      }
+    ]
   }
 ]
