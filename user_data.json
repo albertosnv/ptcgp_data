@@ -1,1 +1,10 @@
- { "name":"John", "age":30, "city":"New York"}
+[
+  {
+    "name": "alberto",
+    "level": "25",
+    "accounts": {
+      "bot": "22222",
+      "botalt": "67678678"
+    }
+  }
+]
