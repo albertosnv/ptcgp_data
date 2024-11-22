@@ -12,5 +12,27 @@
         "code": "67678678"
       }
     ]
+  },
+  {
+    "name": "snipa",
+    "level": "26",
+    "accounts": [
+      {
+        "name": "snipa",
+        "code": "22222"
+      },
+      {
+        "name": "snipa1",
+        "code": "67678678"
+      },
+      {
+        "name": "snipa2",
+        "code": "67678678"
+      },
+      {
+        "name": "snipa3",
+        "code": "67678678"
+      }
+    ]
   }
 ]
